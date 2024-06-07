@@ -1,0 +1,16 @@
+* {
+  border: none;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Barlow Condensed', sans-serif;
+}
+.section-container {
+  padding: 24px;
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+:root {
+  --text: #d0d6f9;
+  --white-text: #ffffff;
+}
